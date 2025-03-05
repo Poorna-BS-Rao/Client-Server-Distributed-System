@@ -1,7 +1,3 @@
-##  Written by Lucas Olsen for CSCI5105
-##  do not modify this file
-
-
 import csv
 import numpy as np
 
