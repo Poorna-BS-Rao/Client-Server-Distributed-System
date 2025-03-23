@@ -1,5 +1,3 @@
-//  Written by Lucas Olsen for CSCI5105
-//  Do not modify this file
 
 
 #include "ML.hpp"
